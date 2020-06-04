@@ -1,5 +1,5 @@
 {
-	"name": "philippfrenzel/yii2fullcalendar",
+	"name": "jonggialdo/yii2fullcalendarfork",
 	"description": "Yii2 fullcalendar Widgets",
 	"keywords": ["yii2", "fullcalendar","widget"],
 	"homepage": "http://www.frenzel.net/",
@@ -7,14 +7,14 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Philipp Frenzel",
-			"email": "philipp@frenzel.net",
+			"name": "Jonggi Aldo",
+			"email": "",
 			"homepage": "http://www.frenzel.net/",
 			"role": "Developer"
 		}
 	],
 	"support": {
-		"source": "https://github.com/philippfrenzel/yii2fullcalendar"
+		"source": "https://github.com/jonggialdo/yii2fullcalendar"
 	},
 	"minimum-stability": "stable",
 	"require": {

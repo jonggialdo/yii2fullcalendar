@@ -29,7 +29,7 @@ class Event extends Model
    * 2017-10-23 removed and is replaced by none standard fields
    * @var string
    */
-   //public $description;
+   public $description;
 
   /**
    * Whether an event occurs at a specific time-of-day. This property affects whether an event's time is shown. Also, in the agenda views, determines if it is displayed in the "all-day" section.
