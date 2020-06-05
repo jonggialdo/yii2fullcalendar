@@ -14,7 +14,7 @@
 		}
 	],
 	"support": {
-		"source": "https://github.com/jonggialdo/yii2fullcalendar"
+		"source": "https://github.com/jonggialdo/yii2fullcalendarfork"
 	},
 	"minimum-stability": "stable",
 	"require": {
@@ -41,6 +41,6 @@
 		"bower-asset/fullcalendar": "^4.3.0"
 	},
 	"autoload": {
-		"psr-4": { "yii2fullcalendar\\": "" }
+		"psr-4": { "yii2fullcalendarfork\\": "" }
 	}
 }
